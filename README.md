@@ -1,5 +1,5 @@
 # Starter Code for the Workshop "Build a Django REST API in minutes"
-## @ Hack The Mountaings, 15th May 2021. [YouTube](https://youtu.be/2_WXm7D-d7Q)
+## @ Hack The Mountains, 15th May 2021. [YouTube](https://youtu.be/2_WXm7D-d7Q)
 
 This is a starter code with simple models created with dummy data which we are going to use for creating APIs using Django REST Framework.
 
