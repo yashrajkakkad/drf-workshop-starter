@@ -25,3 +25,7 @@ pip install -r requirements.txt
 ```
 python manage.py runserver
 ```
+
+## Moving further
+[Django REST Framework](https://www.django-rest-framework.org/) has an excellent documentation and a tutorial to help you learn it well.
+
